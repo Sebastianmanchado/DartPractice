@@ -15,7 +15,7 @@ void main(){
   var lista = ['Luis','Juan','Lucia'];
   print(lista.asMap()); // Paso la lsita a mapa - el contenido de la lista pasa a ser el VALOR, las claves se generan incrementalmente a partir del 0
 
-  
+
 
 
 }
