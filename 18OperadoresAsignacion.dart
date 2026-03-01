@@ -1,6 +1,6 @@
 void main(){
   int a = 10;
-  int b = 25; 
+
 
   var c;
 
@@ -19,7 +19,7 @@ void main(){
   print(c);
   c%=a;
   print(c);
-  
+
 
 
 
