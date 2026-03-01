@@ -25,7 +25,7 @@ void main(){
   print(mayor);
   print(mayorIgual);
   print(menor);
-  print(mayorIgual);
+  print(menorIgual);
   print(igual);
   print(distinto);
 
