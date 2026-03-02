@@ -2,8 +2,10 @@
 // condición ? valorSiTrue : valorSiFalse
 // Ej:
 // var resultado = edad >= 18 ? "Mayor" : "Menor";
+import 'dart:math';
+
 void main(){
-  bool soySeibo = false ; 
+  bool soySeibo = Random().nextBool(); 
 
   soySeibo ?  print('Hola Seibo') : print('Quién chota sos?');
 
