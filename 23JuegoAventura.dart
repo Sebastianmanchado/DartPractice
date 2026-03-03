@@ -1,5 +1,3 @@
-import 'dart:async';
-import 'dart:developer';
 import 'dart:io';
 void main(){
   print('Hola, cual es tu nombre?');
